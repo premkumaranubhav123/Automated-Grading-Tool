@@ -11,13 +11,13 @@ Screenshot of the Automated Grading Tool interface, showcasing features such as 
 
 
 ## Features:-
---> Interactive Grading Tool: Allows users to load student marks from an Excel file and dynamically assign grade ranges using adjustable sliders.
---> Customizable Grade Ranges: Users can manually set or adjust grade boundaries and view their impact in real time.
---> Visualizations: Displays a histogram of student marks with color-coded bins and an average mark line.
---> Statistical Summary: Generates a table showing the range of grades, number of students in each range, percentage distribution, and consecutive grade statistics.
---> Save and Export: Allows graded data to be exported as an Excel file.
--->Responsive UI: A clean, user-friendly interface using Tkinter with scrollable frames for easy navigation.
--->Dynamic Updates: Automatically updates visualizations and statistics when grade ranges are adjusted.
+**Interactive Grading Tool: Allows users to load student marks from an Excel file and dynamically assign grade ranges using adjustable sliders.
+**Customizable Grade Ranges: Users can manually set or adjust grade boundaries and view their impact in real time.
+**Visualizations: Displays a histogram of student marks with color-coded bins and an average mark line.
+**Statistical Summary: Generates a table showing the range of grades, number of students in each range, percentage distribution, and consecutive grade statistics.
+**Save and Export: Allows graded data to be exported as an Excel file.
+**Responsive UI: A clean, user-friendly interface using Tkinter with scrollable frames for easy navigation.
+**Dynamic Updates: Automatically updates visualizations and statistics when grade ranges are adjusted.
 
 ## Prerequisites:-
 Python Version: Python 3.7 or higher
@@ -30,19 +30,18 @@ openpyxl (For handling Excel files)
 
 ## Installation
 1. **Clone the Repository:**
-   git clone https://github.com/premkumaranubhav123/Automated-Grading-Tool
-   
-   cd Automated-Geading-Tool
+   **git clone https://github.com/premkumaranubhav123/Automated-Grading-Tool
+   **cd Automated-Geading-Tool
 2.Install Dependencies:
-  pip install -r requirements.txt
+  **pip install -r requirements.txt
 
 ## Run the Application
 1. Launch the Application: python grading_tool.py
 2. How to Use:
-Click Load Excel File to upload a marks sheet (ensure it contains a "Marks" column).
-Adjust sliders to set grade boundaries.
-Click Run Grading to calculate grades.
-Save the output file by specifying a file name in the Save As section.
+**Click Load Excel File to upload a marks sheet (ensure it contains a "Marks" column).
+**Adjust sliders to set grade boundaries.
+**Click Run Grading to calculate grades.
+**Save the output file by specifying a file name in the Save As section.
 
 ## Project Structure:-
 Automated-Gading_Tool/
