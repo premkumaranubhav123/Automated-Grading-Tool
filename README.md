@@ -3,7 +3,9 @@
 ## Overview
 The Automated Grading Tool is an interactive application designed for educators to dynamically grade students' performance based on customizable criteria. With visualizations and statistical summaries, this tool simplifies the grading process, making it both efficient and transparent.
 
-## Sample View 
+## Screenshot Sample for Automated Grading tool :- 
+
+![Screenshot of the Automated Grading Tool interface, showcasing features such as grade distribution, histogram of marks, average score, and a detailed grading table. The tool processes input from Excel files to generate insightful grading analytics and summaries.](screenshot.png)
 
 ## Features:-
 Interactive Grading Tool: Allows users to load student marks from an Excel file and dynamically assign grade ranges using adjustable sliders.
